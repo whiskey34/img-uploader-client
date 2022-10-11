@@ -12,6 +12,10 @@ package-lock.json
 .env.*.local
 .env
 
+
+# Readme.md file
+README.md
+
 # Log files
 npm-debug.log*
 yarn-debug.log*
