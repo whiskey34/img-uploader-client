@@ -24,6 +24,7 @@
     <a href="https://github.com/whiskey34/img-uploader-client">
       Client
     </a>
+    <span> | </span>
     <a href="https://github.com/whiskey34/img-uploader-server">
       Server
     </a>
