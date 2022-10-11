@@ -20,6 +20,14 @@
       Challenge
     </a>
   </h3>
+  <h3>
+    <a href="https://github.com/whiskey34/img-uploader-client">
+      Client
+    </a>
+    <a href="https://github.com/whiskey34/img-uploader-server">
+      Server
+    </a>
+  </h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
