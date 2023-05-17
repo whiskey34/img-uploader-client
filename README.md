@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://uploader-devch-app.herokuapp.com">
+    <a href="https://img-uploader-whiskey43.vercel.app">
       Demo
     </a>
     <span> | </span>
